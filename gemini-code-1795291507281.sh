@@ -1,1 +1,0 @@
-python -m streamlit run skycargo_dashboard.py
